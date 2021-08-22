@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "73ff6e807ebeabbc5b1418d90815e337",
+    "packages": [
+        {
+            "name": "ywa/wp-oop-helpers",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ywa5923/wp-oop-helpers.git",
+                "reference": "bbbdbc66b6c156b86e332798892db889314570a3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ywa5923/wp-oop-helpers/zipball/bbbdbc66b6c156b86e332798892db889314570a3",
+                "reference": "bbbdbc66b6c156b86e332798892db889314570a3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WOH\\": "./src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ivan Ion",
+                    "email": "ywa5923@gmail.com"
+                }
+            ],
+            "description": "A set of classes used in wp object oriented plugins",
+            "support": {
+                "issues": "https://github.com/ywa5923/wp-oop-helpers/issues",
+                "source": "https://github.com/ywa5923/wp-oop-helpers/tree/1.0.0"
+            },
+            "time": "2020-03-26T20:57:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

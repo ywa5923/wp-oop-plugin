@@ -1,0 +1,10 @@
+{
+    "require": {
+        "ywa/wp-oop-helpers": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "CHANGE_ME\\": "./src"
+        }
+      }
+}
