@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: Blue form
+Plugin Name: Change me
 Plugin URI: https://mattic.eu
-Description:  This plugin is a form builder plugin
+Description:  This plugin is a wordpress scheleton plugin
 Version: 1.0.0
 Author: Ivan Ion
 Author URI: https://automattic.com/wordpress-plugins/
 License: GPLv2 or later
-Text Domain: W00P
+Text Domain: add me
 */
 /*
 This program is free software; you can redistribute it and/or
